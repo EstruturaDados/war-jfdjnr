@@ -39,6 +39,7 @@ int main() {
     }
         printf(" Cadastro concluido com sucesso! \n");
         printf("_________________________________ \n\n\n");
+    
     // Exibição do estado atual do mapa
     printf("MAPA DO MUNDO - Estado Atual:\n");
     printf("====================================================\n\n");
